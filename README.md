@@ -8,8 +8,6 @@
 
 **📈 Currently building:** [personal-ops-tracker 🚀](https://github.com/neomoon007/personal-ops-tracker)
 
-**🎯 Goal:** First backend job by October 2026
-
 **Progress:** Day **1**/112 ✅ Setup complete
 
 ---
