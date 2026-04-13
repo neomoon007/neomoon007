@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230249A6.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
-**📈 Currently building:** [![personal-ops-tracker](https://github-readme-stats.vercel.app/api/pin/?username=neomoon007&repo=personal-ops-tracker&theme=radical)](https://github.com/neomoon007/personal-ops-tracker)
+**📈 Currently building:** [personal-ops-tracker 🚀](https://github.com/neomoon007/personal-ops-tracker)
 
 **🎯 Goal:** First backend job by October 2026
 
