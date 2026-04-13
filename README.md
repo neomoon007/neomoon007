@@ -1,16 +1,22 @@
-## Hi there 👋
+# Marcos Costa 👨‍💻
 
-<!--
-**neomoon007/neomoon007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer in training** | Rio Grande, RS, Brazil
 
-Here are some ideas to get you started:
+![NestJS](https://img.shields.io/badge/NestJS-%23E0235B.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230249A6.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📈 Currently building:** [![personal-ops-tracker](https://github-readme-stats.vercel.app/api/pin/?username=marcoscosta&repo=personal-ops-tracker&theme=radical)](https://github.com/marcoscosta/personal-ops-tracker)
+
+**🎯 Goal:** First backend job by October 2026
+
+**Progress:** Day **1**/112 ✅ Setup complete
+
+---
+
+**🛠️ Tech Stack I'm Mastering**
+TypeScript → Node.js → NestJS → PostgreSQL → Docker → AWS → Terraform
+
+**📚 Current Phase: Iron Man Arc**
+- [x] Day 1: TypeScript + Node.js setup
+- [ ] Days 2-14: Core task/project logic + testing
