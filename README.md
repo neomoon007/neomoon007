@@ -10,6 +10,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230249A6.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 
-**📈 Currently working on: [Voice-to-Task GTD Engine](https://github.com/neomoon007/personal-ops-tracker)**
+**📈 Currently working on: [Tevira-AI](https://github.com/neomoon007/tevira-ai)**
 
 *A production-grade system designed to convert unstructured audio into hierarchical GTD trees using async workers and LLM parsing.*
